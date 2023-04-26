@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "role": "admin",
+      "service": null
+    },
+    {
+      "id": 2,
+      "userName": "Sage & saffron",
+      "role": "vendor",
+      "service": "Food & Beverages"
+    },
+    {
+      "id": 3,
+      "userName": "Identity Music",
+      "role": "vendor",
+      "service": "Music"
+    },
+    {
+      "id": 4,
+      "userName": "LightUp",
+      "role": "vendor",
+      "service": "Light decorations"
+    },
+    {
+      "id": 5,
+      "userName": "user123",
+      "role": "user",
+      "service": null
+    }
+  ],
+  "Event": [
+    [
+      "Identity Music",
+      "Sage & saffron"
+    ],
+    [
+      "LightUp",
+      "Identity Music",
+      "Sage & saffron"
+    ]
+  ]
+}
